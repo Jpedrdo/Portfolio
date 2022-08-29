@@ -1,6 +1,6 @@
 import { createStyles, makeStyles } from "@mui/styles";
 
-const useStyles = makeStyles(() =>
+const useStyles = makeStyles((theme) =>
   createStyles({
     "@global": {
       "*": {
@@ -36,6 +36,9 @@ const useStyles = makeStyles(() =>
         fontFamily: "var(--type-first)",
         paddingTop: "5.5rem",
         overflow: "overlay",
+        [theme.breakpoints.down("sm")]: {
+          paddingTop: "2rem",
+        },
       },
       a: {
         textDecoration: "none",

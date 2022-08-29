@@ -10,7 +10,10 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: "column",
     alignItems: "flex-start",
     [theme.breakpoints.down("md")]: {
-      marginTop: "4rem",
+      marginTop: "5rem",
+    },
+    [theme.breakpoints.down("sm")]: {
+      marginTop: "2rem",
     },
   },
   titleBorder: {

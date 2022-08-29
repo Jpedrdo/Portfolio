@@ -12,8 +12,9 @@
 
 <h2 align="center">My Portfolio website. You can see all my skills and demos of my hosted projects on the Github Pages. At the bottom of the page you can contact me!</h2>
 
-## 💻 Demo
-<h2>Checkout the demo online: <a>https://jpedrdo.github.io/Portfolio/</a></h2>
+<h2>💻 Demo</h2>
+
+https://jpedrdo.github.io/Portfolio/
 
 ## ⚙️ Technologies
 

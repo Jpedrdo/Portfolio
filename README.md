@@ -14,7 +14,7 @@
 
 <h2>💻 Demo</h2>
 
-https://jpedrdo.github.io/Portfolio/
+https://jpedrdo.github.io/Portfolio
 
 ## ⚙️ Technologies
 

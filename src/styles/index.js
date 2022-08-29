@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) =>
         paddingTop: "5.5rem",
         overflow: "overlay",
         [theme.breakpoints.down("sm")]: {
-          paddingTop: "2rem",
+          paddingTop: "1rem",
         },
       },
       a: {

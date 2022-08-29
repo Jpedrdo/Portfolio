@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
       marginTop: "5rem",
     },
     [theme.breakpoints.down("sm")]: {
-      marginTop: "2rem",
+      marginTop: "0.9rem",
     },
   },
   titleBorder: {

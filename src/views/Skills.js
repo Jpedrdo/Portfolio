@@ -4,11 +4,14 @@ import { Box, Typography, Grid } from "@mui/material";
 import { skills } from "../data";
 import { SkillCard } from "../components";
 
-const useStyles = makeStyles(() => ({
+const useStyles = makeStyles((theme) => ({
   mainBox: {
     display: "flex",
     flexDirection: "column",
     alignItems: "flex-start",
+    [theme.breakpoints.down("md")]: {
+      marginTop: "4rem",
+    },
   },
   titleBorder: {
     borderBottom: "5px solid #6b7280",

@@ -17,11 +17,7 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: "column",
     width: "30%",
     [theme.breakpoints.down("md")]: {
-      marginTop: "3rem",
-      width: "80%",
-    },
-    [theme.breakpoints.down("xs")]: {
-      marginTop: "2rem",
+      marginTop: "1rem",
       width: "80%",
     },
   },
@@ -31,12 +27,8 @@ const useStyles = makeStyles((theme) => ({
     animation: "$MoveUpDown 8s infinite",
     width: "40%",
     [theme.breakpoints.down("md")]: {
-      marginTop: "3rem",
-      width: "60%",
-    },
-    [theme.breakpoints.down("xs")]: {
-      marginTop: "2rem",
-      width: "70%",
+      marginTop: "0.5rem",
+      width: "80%",
     },
   },
   resum: {
@@ -89,8 +81,8 @@ const Home = () => {
           <Typography
             sx={{
               fontSize: {
-                xs: "2rem",
-                sm: "2rem",
+                xs: "1.8rem",
+                sm: "1.8rem",
                 md: "2.8vw",
               },
               fontWeight: "bold",
@@ -101,8 +93,8 @@ const Home = () => {
           <Typography
             sx={{
               fontSize: {
-                xs: "2rem",
-                sm: "2rem",
+                xs: "1.8rem",
+                sm: "1.8rem",
                 md: "2.8vw",
               },
               fontWeight: "bold",

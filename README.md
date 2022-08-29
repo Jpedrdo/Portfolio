@@ -10,7 +10,7 @@
   <img src="src/imgs/readMeImgs/contactSection.png" width="30%">
 </p>
 
-<h2 align="center">My Portfolio website. You can see all my skills and demos of my hosted projects on the Github Pages. At the bottom of the page you can contact me!</h2>
+<h2 align="center">My Portfolio website. You can see all my skills and demos of my hosted projects on the Github Pages. At the bottom you can contact me!</h2>
 
 <h2>💻 Demo</h2>
 

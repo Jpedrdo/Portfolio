@@ -1,3 +1,23 @@
+<h1 align="center">Portfolio</h1>
+
+<img src="src/imgs/readMeImgs/fullPage.png">
+
+<p align="center">
+  <img src="src/imgs/readMeImgs/skillsSection.png" width="31.8%"> 
+    &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="src/imgs/readMeImgs/projectsSection.png" width="31.8%">
+    &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="src/imgs/readMeImgs/contactSection.png" width="31.8%">
+</p>
+
+<h2 align="center">My Portfolio website. You can see all my skills and demos of my hosted projects on the Github Pages. At the bottom of the page you can contact me!</h2>
+
+## ⚙️ Technologies
+
+- [ ] Javascript
+- [ ] React Js
+- [ ] Material Ui
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

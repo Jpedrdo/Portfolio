@@ -3,14 +3,17 @@
 <img src="src/imgs/readMeImgs/fullPage.png">
 
 <p align="center">
-  <img src="src/imgs/readMeImgs/skillsSection.png" width="31.8%"> 
+  <img src="src/imgs/readMeImgs/skillsSection.png" width="30%"> 
     &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="src/imgs/readMeImgs/projectsSection.png" width="31.8%">
+  <img src="src/imgs/readMeImgs/projectsSection.png" width="30%">
     &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="src/imgs/readMeImgs/contactSection.png" width="31.8%">
+  <img src="src/imgs/readMeImgs/contactSection.png" width="30%">
 </p>
 
 <h2 align="center">My Portfolio website. You can see all my skills and demos of my hosted projects on the Github Pages. At the bottom of the page you can contact me!</h2>
+
+## 💻 Demo
+<h2>Checkout the demo online: <a>https://jpedrdo.github.io/Portfolio/</a></h2>
 
 ## ⚙️ Technologies
 

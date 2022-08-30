@@ -24,6 +24,7 @@ const useStyles = makeStyles((theme) =>
         "-moz-osx-font-smoothing": "grayscale",
         height: "100%",
         width: "100%",
+        overflowX: "hidden",
       },
       body: {
         margin: "0px",

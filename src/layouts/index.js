@@ -34,20 +34,18 @@ const MainLayout = () => {
   const classes = useStyles();
 
   return (
-    <>
-      <Box className={classes.root}>
-        <Box className={classes.content}>
-          <Navbar />
-          <Home />
-          <Box className={classes.about}>
-            <Skills />
-            <Projects />
-            <Contact />
-          </Box>
+    <Box className={classes.root}>
+      <Box className={classes.content} id="containerElement">
+        <Navbar />
+        <Home />
+        <Box className={classes.about}>
+          <Skills />
+          <Projects />
+          <Contact />
         </Box>
+        <Footer />
       </Box>
-      <Footer />
-    </>
+    </Box>
   );
 };
 

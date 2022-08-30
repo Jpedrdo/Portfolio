@@ -29,17 +29,17 @@ export const headerLinks = [
   {
     id: 2,
     link: "skills",
-    offset: -75,
+    offset: -15,
   },
   {
     id: 3,
     link: "projects",
-    offset: 75,
+    offset: 145,
   },
   {
     id: 4,
     link: "contact",
-    offset: 0,
+    offset: 150,
   },
 ];
 

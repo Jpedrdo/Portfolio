@@ -9,11 +9,12 @@ const useStyles = makeStyles((theme) => ({
     display: "flex",
     flexDirection: "column",
     alignItems: "flex-start",
+    marginTop: "1.15rem",
     [theme.breakpoints.down("md")]: {
       marginTop: "5rem",
     },
     [theme.breakpoints.down("sm")]: {
-      marginTop: "0.3rem",
+      marginTop: "0rem",
     },
   },
   titleBorder: {

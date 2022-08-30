@@ -8,12 +8,8 @@ import { Link } from "react-scroll";
 const useStyles = makeStyles((theme) => ({
   textLink: {
     textTransform: "none",
-    color: "#6b7280",
     paddingRight: "10px",
     paddingLeft: "10px",
-    "&:hover": {
-      color: "#fff",
-    },
   },
   mainBox: {
     display: "flex",
@@ -46,8 +42,23 @@ const Navbar = () => {
               João Pedro
             </Typography>
             {headerLinks.map(({ id, link, offset }) => (
-              <Link key={id} to={link} smooth offset={offset} duration={500}>
-                <Button>
+              <Link
+                key={id}
+                to={link}
+                smooth
+                offset={offset}
+                duration={500}
+                spy={true}
+                containerId="containerElement"
+              >
+                <Button
+                  sx={{
+                    color: "#6b7280",
+                    "&:hover": {
+                      color: "#fff",
+                    },
+                  }}
+                >
                   <Typography variant="h5" className={classes.textLink}>
                     {firstLetterUpperCase(link)}
                   </Typography>

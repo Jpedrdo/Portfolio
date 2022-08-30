@@ -8,9 +8,12 @@ const useStyles = makeStyles((theme) => ({
   mainBox: {
     display: "flex",
     height: "90vh",
-    minHeight: "800px",
+    minHeight: "750px",
     alignItems: "center",
     justifyContent: "center",
+    [theme.breakpoints.down("sm")]: {
+      marginTop: "-1.1rem",
+    },
   },
   infos: {
     display: "flex",
@@ -27,7 +30,11 @@ const useStyles = makeStyles((theme) => ({
     animation: "$MoveUpDown 8s infinite",
     width: "40%",
     [theme.breakpoints.down("md")]: {
-      marginTop: "0.5rem",
+      marginTop: "4rem",
+      width: "71%",
+    },
+    [theme.breakpoints.down("sm")]: {
+      marginTop: "0",
       width: "80%",
     },
   },
@@ -42,6 +49,7 @@ const useStyles = makeStyles((theme) => ({
     height: 40.5,
     "&:hover": {
       opacity: 0.8,
+      color: "#fff",
     },
   },
   buttonText: {
@@ -112,7 +120,14 @@ const Home = () => {
             I always try to improve my skills and use design patterns.
           </Typography>
         </Box>
-        <Link to="projects" smooth offset={75} duration={500}>
+        <Link
+          to="projects"
+          smooth
+          offset={75}
+          duration={500}
+          spy={true}
+          containerId="containerElement"
+        >
           <Button variant="contained" className={classes.button}>
             <Typography className={classes.buttonText}>Projects</Typography>
           </Button>

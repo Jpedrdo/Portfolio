@@ -24,21 +24,19 @@ const useStyles = makeStyles((theme) =>
         "-moz-osx-font-smoothing": "grayscale",
         height: "100%",
         width: "100%",
-        overflowX: "hidden",
       },
       body: {
         margin: "0px",
         color: "#fff",
         background:
           "linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(38,38,38,1) 100%)",
-        backgroundAttachment: "fixed",
         width: "100%",
+        height: "100%",
         "--type-first": "Helvetica, Arial, sans-serif",
         fontFamily: "var(--type-first)",
-        paddingTop: "5.5rem",
-        overflow: "overlay",
+        paddingTop: "4rem",
         [theme.breakpoints.down("sm")]: {
-          paddingTop: "0.7rem",
+          paddingTop: "3.5rem",
         },
       },
       a: {

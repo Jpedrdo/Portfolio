@@ -120,7 +120,7 @@ export const skills = [
   {
     id: 13,
     img: graphql,
-    name: "Graphql",
+    name: "GraphQL",
     borderColor: "#e632ad",
   },
   {

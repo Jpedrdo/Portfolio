@@ -3,9 +3,9 @@
 <img src="src/imgs/readMeImgs/fullPage.png">
 
 <p align="center">
-  <img src="src/imgs/readMeImgs/skillsSection.png" width="30%"> 
+  <img src="src/imgs/readMeImgs/skillSection.png" width="30%"> 
     &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="src/imgs/readMeImgs/projectsSection.png" width="30%">
+  <img src="src/imgs/readMeImgs/projectSection.png" width="30%">
     &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="src/imgs/readMeImgs/contactSection.png" width="30%">
 </p>

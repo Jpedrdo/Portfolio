@@ -18,7 +18,7 @@ import {
   pokedex,
   lofi,
   nikeShoes,
-  wheater,
+  weather,
   card3D,
 } from "../imgs";
 
@@ -164,11 +164,11 @@ export const projects = [
   },
   {
     id: 3,
-    img: wheater,
-    name: "Wheater App",
+    img: weather,
+    name: "Weather App",
     technologies: "TypeScript, React Native, Expo",
     demoLink: "",
-    codeLink: "https://github.com/Jpedrdo/Wheater",
+    codeLink: "https://github.com/Jpedrdo/Weather",
   },
   {
     id: 4,

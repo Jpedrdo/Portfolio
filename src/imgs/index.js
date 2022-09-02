@@ -18,7 +18,7 @@ import node from "./skills/node.png";
 import pokedex from "./projects/pokedex.png";
 import lofi from "./projects/lofi.png";
 import nikeShoes from "./projects/nikeShoes.png";
-import wheater from "./projects/wheater.png";
+import weather from "./projects/weather.png";
 import card3D from "./projects/card3D.png";
 import fullPage from "./readMeImgs/fullPage.png";
 import skillsSection from "./readMeImgs/skillsSection.png";
@@ -46,7 +46,7 @@ export {
   pokedex,
   lofi,
   nikeShoes,
-  wheater,
+  weather,
   card3D,
   fullPage,
   skillsSection,

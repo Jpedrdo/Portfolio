@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.4e393087.js",
+    "main.js": "/Portfolio/static/js/main.121d9abd.js",
     "static/media/lofi.png": "/Portfolio/static/media/lofi.f1d1bed3e243e6880bf3.png",
     "static/media/pokedex.png": "/Portfolio/static/media/pokedex.118f60ef5f54b514e1fa.png",
-    "static/media/projectsSection.png": "/Portfolio/static/media/projectsSection.112b34b6ecd530c9d5df.png",
+    "static/media/projectsSection.png": "/Portfolio/static/media/projectsSection.70b6660fa9a083bd570a.png",
     "static/media/card3D.png": "/Portfolio/static/media/card3D.bfa19233d8d4b6492733.png",
     "static/media/fullPage.png": "/Portfolio/static/media/fullPage.a7aa9c88dab6b2c04017.png",
     "static/media/skillsSection.png": "/Portfolio/static/media/skillsSection.3d2d7a9e86a4858bd91b.png",
     "static/media/nikeShoes.png": "/Portfolio/static/media/nikeShoes.ac79f6177faaccb248d5.png",
     "static/media/meDrawn.png": "/Portfolio/static/media/meDrawn.c3050306578575f17548.png",
     "static/media/graphql.png": "/Portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
-    "static/media/wheater.png": "/Portfolio/static/media/wheater.7489d1188d49a3636731.png",
+    "static/media/weather.png": "/Portfolio/static/media/weather.7489d1188d49a3636731.png",
     "static/media/contactSection.png": "/Portfolio/static/media/contactSection.cfb8a29e99c4e39dcf0d.png",
     "static/media/singleSpa.png": "/Portfolio/static/media/singleSpa.9206696cbfd2a8f3b4c5.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -26,9 +26,9 @@
     "static/media/typescript.png": "/Portfolio/static/media/typescript.9c26f8b2a0484e2cb4f2.png",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
-    "main.4e393087.js.map": "/Portfolio/static/js/main.4e393087.js.map"
+    "main.121d9abd.js.map": "/Portfolio/static/js/main.121d9abd.js.map"
   },
   "entrypoints": [
-    "static/js/main.4e393087.js"
+    "static/js/main.121d9abd.js"
   ]
 }

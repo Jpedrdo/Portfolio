@@ -2,6 +2,7 @@ import meDrawn from "./home/meDrawn.png";
 import html from "./skills/html.png";
 import css from "./skills/css.png";
 import javascript from "./skills/javascript.png";
+import typescript from "./skills/typescript.png";
 import reactImage from "./skills/react.png";
 import reduxImage from "./skills/redux.png";
 import expo from "./skills/expo.png";
@@ -17,6 +18,7 @@ import node from "./skills/node.png";
 import pokedex from "./projects/pokedex.png";
 import lofi from "./projects/lofi.png";
 import nikeShoes from "./projects/nikeShoes.png";
+import wheater from "./projects/wheater.png";
 import card3D from "./projects/card3D.png";
 import fullPage from "./readMeImgs/fullPage.png";
 import skillsSection from "./readMeImgs/skillsSection.png";
@@ -28,6 +30,7 @@ export {
   html,
   css,
   javascript,
+  typescript,
   reactImage,
   reduxImage,
   expo,
@@ -43,6 +46,7 @@ export {
   pokedex,
   lofi,
   nikeShoes,
+  wheater,
   card3D,
   fullPage,
   skillsSection,

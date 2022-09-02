@@ -2,6 +2,7 @@ import {
   html,
   css,
   javascript,
+  typescript,
   reactImage,
   reduxImage,
   expo,
@@ -17,6 +18,7 @@ import {
   pokedex,
   lofi,
   nikeShoes,
+  wheater,
   card3D,
 } from "../imgs";
 
@@ -61,6 +63,12 @@ export const skills = [
     img: javascript,
     name: "JavaScript",
     borderColor: "#ffd600",
+  },
+  {
+    id: 3,
+    img: typescript,
+    name: "TypeScript",
+    borderColor: "#2d79c7",
   },
   {
     id: 4,
@@ -156,14 +164,22 @@ export const projects = [
   },
   {
     id: 3,
-    img: lofi,
-    name: "Lofi Music Player",
-    technologies: "React Js, Sass",
-    demoLink: "https://jpedrdo.github.io/Lofi-Music-Player/",
-    codeLink: "https://github.com/Jpedrdo/Lofi-Music-Player",
+    img: wheater,
+    name: "Wheater App",
+    technologies: "TypeScript, React Native, Expo",
+    demoLink: "",
+    codeLink: "https://github.com/Jpedrdo/Wheater",
   },
   {
     id: 4,
+    img: lofi,
+    name: "Lofi Music Player",
+    technologies: "React Js, Sass",
+    demoLink: "",
+    codeLink: "https://github.com/Jpedrdo/Lofi-Music-Player",
+  },
+  {
+    id: 5,
     img: card3D,
     name: "Card 3D Effect",
     technologies: "React Js, Material Ui, Redux",

@@ -175,7 +175,7 @@ export const projects = [
     img: lofi,
     name: "Lofi Music Player",
     technologies: "React Js, Sass",
-    demoLink: "",
+    demoLink: "https://jpedrdo.github.io/Lofi-Music-Player/",
     codeLink: "https://github.com/Jpedrdo/Lofi-Music-Player",
   },
   {

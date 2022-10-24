@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.09e4ee8c.js",
+    "main.js": "/Portfolio/static/js/main.56d4b3c3.js",
     "static/media/lofi.png": "/Portfolio/static/media/lofi.f1d1bed3e243e6880bf3.png",
     "static/media/pokedex.png": "/Portfolio/static/media/pokedex.118f60ef5f54b514e1fa.png",
     "static/media/projectsSection.png": "/Portfolio/static/media/projectsSection.70b6660fa9a083bd570a.png",
@@ -13,22 +13,29 @@
     "static/media/weather.png": "/Portfolio/static/media/weather.7489d1188d49a3636731.png",
     "static/media/contactSection.png": "/Portfolio/static/media/contactSection.cfb8a29e99c4e39dcf0d.png",
     "static/media/singleSpa.png": "/Portfolio/static/media/singleSpa.9206696cbfd2a8f3b4c5.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.90d7bb15be0fd9fbe755.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/antDesign.png": "/Portfolio/static/media/antDesign.ac0478a8ff0159beabde.png",
     "static/media/redux.png": "/Portfolio/static/media/redux.6bce3f4f858bfd877dbe.png",
     "static/media/expo.png": "/Portfolio/static/media/expo.bb6083237f00b4ff375d.png",
     "static/media/node.png": "/Portfolio/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/csharp.png": "/Portfolio/static/media/csharp.509c1a4773a41d73a664.png",
     "static/media/styledComponents.png": "/Portfolio/static/media/styledComponents.fbb11a4eb3c084942657.png",
+    "static/media/bitBucket.png": "/Portfolio/static/media/bitBucket.090f9172e8908bb82ad7.png",
+    "static/media/nextjs.png": "/Portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/sass.png": "/Portfolio/static/media/sass.b1789f6448a5bae26264.png",
     "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/nativeBase.png": "/Portfolio/static/media/nativeBase.b683410f3732ea8a3b52.png",
     "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/typescript.png": "/Portfolio/static/media/typescript.9c26f8b2a0484e2cb4f2.png",
+    "static/media/azureDevops.png": "/Portfolio/static/media/azureDevops.3a5b9ef90830e12d0875.png",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/firebase.png": "/Portfolio/static/media/firebase.6b405206252ff65ef584.png",
     "index.html": "/Portfolio/index.html",
-    "main.09e4ee8c.js.map": "/Portfolio/static/js/main.09e4ee8c.js.map"
+    "main.56d4b3c3.js.map": "/Portfolio/static/js/main.56d4b3c3.js.map"
   },
   "entrypoints": [
-    "static/js/main.09e4ee8c.js"
+    "static/js/main.56d4b3c3.js"
   ]
 }

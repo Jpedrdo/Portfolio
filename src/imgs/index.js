@@ -24,6 +24,14 @@ import fullPage from "./readMeImgs/fullPage.png";
 import skillsSection from "./readMeImgs/skillsSection.png";
 import projectsSection from "./readMeImgs/projectsSection.png";
 import contactSection from "./readMeImgs/contactSection.png";
+import bitBucket from "./skills/bitBucket.png";
+import azureDevops from "./skills/azureDevops.png";
+import csharp from "./skills/csharp.png";
+import firebase from "./skills/firebase.png";
+import flutter from "./skills/flutter.png";
+import bootstrap from "./skills/bootstrap.png";
+import nativeBase from "./skills/nativeBase.png";
+import nextjs from "./skills/nextjs.png";
 
 export {
   meDrawn,
@@ -52,4 +60,12 @@ export {
   skillsSection,
   projectsSection,
   contactSection,
+  bitBucket,
+  azureDevops,
+  csharp,
+  firebase,
+  flutter,
+  bootstrap,
+  nativeBase,
+  nextjs,
 };

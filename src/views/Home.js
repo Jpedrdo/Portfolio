@@ -123,7 +123,7 @@ const Home = () => {
         <Link
           to="projects"
           smooth
-          offset={75}
+          offset={145}
           duration={500}
           spy={true}
           containerId="containerElement"

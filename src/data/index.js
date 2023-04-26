@@ -22,6 +22,7 @@ import {
   weather,
   card3D,
   fightGym,
+  questions,
   bitBucket,
   azureDevops,
   csharp,
@@ -259,5 +260,13 @@ export const projects = [
     technologies: "TypeScript, React Js, Tailwind",
     demoLink: "https://jpedrdo.github.io/FightGym/",
     codeLink: "https://github.com/Jpedrdo/FightGym",
+  },
+  {
+    id: 8,
+    img: questions,
+    name: "Quiz",
+    technologies: "React Js, Material Ui, Redux",
+    demoLink: "https://jpedrdo.github.io/Quiz/",
+    codeLink: "https://github.com/Jpedrdo/Quiz",
   },
 ];

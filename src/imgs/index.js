@@ -22,6 +22,7 @@ import nikeShoes from "./projects/nikeShoes.png";
 import weather from "./projects/weather.png";
 import card3D from "./projects/card3D.png";
 import fightGym from "./projects/fightGym.png";
+import questions from "./projects/questions.png";
 import fullPage from "./readMeImgs/fullPage.png";
 import skillsSection from "./readMeImgs/skillsSection.png";
 import projectsSection from "./readMeImgs/projectsSection.png";
@@ -60,6 +61,7 @@ export {
   weather,
   card3D,
   fightGym,
+  questions,
   fullPage,
   skillsSection,
   projectsSection,

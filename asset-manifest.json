@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.93b126e6.js",
+    "main.js": "/Portfolio/static/js/main.04f15077.js",
     "static/media/lofi.png": "/Portfolio/static/media/lofi.f1d1bed3e243e6880bf3.png",
     "static/media/pokedex.png": "/Portfolio/static/media/pokedex.118f60ef5f54b514e1fa.png",
     "static/media/fightGym.png": "/Portfolio/static/media/fightGym.b7db372ae6f523659212.png",
-    "static/media/projectsSection.png": "/Portfolio/static/media/projectsSection.70b6660fa9a083bd570a.png",
+    "static/media/projectsSection.png": "/Portfolio/static/media/projectsSection.ed0828d19754f148127e.png",
     "static/media/card3D.png": "/Portfolio/static/media/card3D.bfa19233d8d4b6492733.png",
     "static/media/fullPage.png": "/Portfolio/static/media/fullPage.a7aa9c88dab6b2c04017.png",
     "static/media/skillsSection.png": "/Portfolio/static/media/skillsSection.9d7731198f9ea285359f.png",
@@ -12,6 +12,7 @@
     "static/media/meDrawn.png": "/Portfolio/static/media/meDrawn.c3050306578575f17548.png",
     "static/media/graphql.png": "/Portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/weather.png": "/Portfolio/static/media/weather.7489d1188d49a3636731.png",
+    "static/media/questions.png": "/Portfolio/static/media/questions.3f056559a144602a10c5.png",
     "static/media/contactSection.png": "/Portfolio/static/media/contactSection.cfb8a29e99c4e39dcf0d.png",
     "static/media/tailwind.png": "/Portfolio/static/media/tailwind.36b2728bf0d14b7b7576.png",
     "static/media/singleSpa.png": "/Portfolio/static/media/singleSpa.9206696cbfd2a8f3b4c5.png",
@@ -35,9 +36,9 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/firebase.png": "/Portfolio/static/media/firebase.6b405206252ff65ef584.png",
     "index.html": "/Portfolio/index.html",
-    "main.93b126e6.js.map": "/Portfolio/static/js/main.93b126e6.js.map"
+    "main.04f15077.js.map": "/Portfolio/static/js/main.04f15077.js.map"
   },
   "entrypoints": [
-    "static/js/main.93b126e6.js"
+    "static/js/main.04f15077.js"
   ]
 }

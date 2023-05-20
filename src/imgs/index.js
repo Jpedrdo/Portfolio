@@ -18,6 +18,7 @@ import node from "./skills/node.png";
 import tailwind from "./skills/tailwind.png";
 import pokedex from "./projects/pokedex.png";
 import lofi from "./projects/lofi.png";
+import barbecueSchedule from "./projects/barbecueSchedule.png";
 import nikeShoes from "./projects/nikeShoes.png";
 import weather from "./projects/weather.png";
 import card3D from "./projects/card3D.png";
@@ -57,6 +58,7 @@ export {
   tailwind,
   pokedex,
   lofi,
+  barbecueSchedule,
   nikeShoes,
   weather,
   card3D,
